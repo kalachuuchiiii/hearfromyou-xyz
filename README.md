@@ -1,4 +1,4 @@
-# Hearfromyou – Digital Cassette Tape Archive & Online Mixtape Maker
+# Hearfromyou – A Cassette Tape Archive 
 
 > **Mixtapes, memories, and things left unsaid.**
 
